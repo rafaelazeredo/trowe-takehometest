@@ -4,7 +4,7 @@ Word finder was built to analise text and output results based on specific selec
 
 
 ## Assumptions
-- Only words with alphabetic letter are considered [A-Za-z].
+- Only words with alphabetic letters are considered [A-Za-z].
 - Special character and number are be ignored.
 - If special characters or numbers are found in the middle of words those will be split in two and considered as two distinguished words.
 - Duplicated words are considered as one entry.
